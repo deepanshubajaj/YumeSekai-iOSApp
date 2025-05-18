@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  YumeSekai
+
+  Created by Deepanshu Bajaj on 05/05/25.
+  
+*/
+
+"loading_label" = "Memuat";
+"unknown_label" = "Tidak diketahui";
+
+"home_title" = "Beranda";
+"search_title" = "Cari";
+"favorite_title" = "Favorit";
+"profile_title" = "Profil";
+
+"now_airing_title" = "Sedang Tayang";
+"upcoming_title" = "Mendatang";
+"most_popular_title" = "Paling Populer";
+"top_rated_title" = "Peringkat Teratas";
+
+"no_internet_label" = "Tidak ada koneksi internet";
+"retry_label" = "Coba lagi";

@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  YumeSekai
+
+  Created by Deepanshu Bajaj on 05/05/25.
+  
+*/
+
+"unknown_label" = "Unknown";
+
+"hours_label" = "hours";
+"minutes_label" = "minutes";

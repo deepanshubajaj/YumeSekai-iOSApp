@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  YumeSekai
+
+  Created by Deepanshu Bajaj on 05/05/25.
+  
+*/
+
+"loading_label" = "Loading";
+"unknown_label" = "Unknown";
+
+"home_title" = "Home";
+"search_title" = "Search";
+"favorite_title" = "Favourite";
+"profile_title" = "Profile";
+
+"now_airing_title" = "Now Airing";
+"upcoming_title" = "Upcoming";
+"most_popular_title" = "Most Popular";
+"top_rated_title" = "Top Rated";
+
+"no_internet_label" = "No internet";
+"retry_label" = "Retry";

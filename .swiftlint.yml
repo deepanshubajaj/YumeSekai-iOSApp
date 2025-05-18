@@ -1,0 +1,9 @@
+disabled_rules:
+  - identifier_name
+  - generic_type_name
+  - force_cast
+  - trailing_whitespace
+  - trailing_newline
+  - multiple_closures_with_trailing_closure
+  - vertical_whitespace
+  - line_length
