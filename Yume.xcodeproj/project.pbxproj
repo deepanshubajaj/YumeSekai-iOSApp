@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		2E0048F92DDA39160074A1DE /* AppEnvironment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0048F82DDA38010074A1DE /* AppEnvironment.swift */; };
+		2E0048FB2DDA53A40074A1DE /* Keys-Example.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2E0048FA2DDA53A40074A1DE /* Keys-Example.plist */; };
+		2E0048FE2DDA54A10074A1DE /* Bundle+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0048FC2DDA54A10074A1DE /* Bundle+Ext.swift */; };
 		2E1133E02DD89E9B00689635 /* coverPage.gif in Resources */ = {isa = PBXBuildFile; fileRef = 2E1133DF2DD89E9B00689635 /* coverPage.gif */; };
 		2E1133E52DD8A2AC00689635 /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E1133E42DD8A2AC00689635 /* SplashScreenView.swift */; };
 		2E1133E72DD8A49F00689635 /* yumeSekaiText.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2E1133E62DD8A49F00689635 /* yumeSekaiText.jpg */; };
@@ -87,6 +89,8 @@
 
 /* Begin PBXFileReference section */
 		2E0048F82DDA38010074A1DE /* AppEnvironment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppEnvironment.swift; sourceTree = "<group>"; };
+		2E0048FA2DDA53A40074A1DE /* Keys-Example.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Keys-Example.plist"; sourceTree = "<group>"; };
+		2E0048FC2DDA54A10074A1DE /* Bundle+Ext.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Bundle+Ext.swift"; sourceTree = "<group>"; };
 		2E1133DF2DD89E9B00689635 /* coverPage.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = coverPage.gif; sourceTree = "<group>"; };
 		2E1133E42DD8A2AC00689635 /* SplashScreenView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
 		2E1133E62DD8A49F00689635 /* yumeSekaiText.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yumeSekaiText.jpg; sourceTree = "<group>"; };
@@ -186,6 +190,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2E0048FD2DDA54A10074A1DE /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				2E0048FC2DDA54A10074A1DE /* Bundle+Ext.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
 		2E1133DE2DD89E7100689635 /* OtherAssets */ = {
 			isa = PBXGroup;
 			children = (
@@ -233,6 +245,7 @@
 				934AF4BC2958A82200C413B4 /* Assets.xcassets */,
 				936AB609296C01FD00166602 /* Localizable.strings */,
 				931BBFD4295CC79900359359 /* Info.plist */,
+				2E0048FA2DDA53A40074A1DE /* Keys-Example.plist */,
 			);
 			path = "Supporting Files";
 			sourceTree = "<group>";
@@ -342,6 +355,7 @@
 		934AF4B72958A82200C413B4 /* Yume */ = {
 			isa = PBXGroup;
 			children = (
+				2E0048FD2DDA54A10074A1DE /* Extensions */,
 				931BBF70295C176E00359359 /* App */,
 				931BBF74295C17F300359359 /* Core */,
 				934AF4BE2958A82200C413B4 /* Preview Content */,
@@ -518,6 +532,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				93648F612968E36E00CAB465 /* Nunito-SemiBoldItalic.ttf in Resources */,
+				2E0048FB2DDA53A40074A1DE /* Keys-Example.plist in Resources */,
 				93648F652968E36E00CAB465 /* Nunito-ExtraBoldItalic.ttf in Resources */,
 				93648F692968E36E00CAB465 /* Nunito-MediumItalic.ttf in Resources */,
 				93648F6E2968E36E00CAB465 /* Nunito-Regular.ttf in Resources */,
@@ -621,6 +636,7 @@
 				2E24D2C52DD7C63800B0EF07 /* env.swift in Sources */,
 				93DB39A229904B5E00EE7205 /* File+Ext.swift in Sources */,
 				931BBF89295C19C400359359 /* APICall.swift in Sources */,
+				2E0048FE2DDA54A10074A1DE /* Bundle+Ext.swift in Sources */,
 				934AF4B92958A82200C413B4 /* YumeApp.swift in Sources */,
 				2E8270CB2DD8BBEA00DF9D8D /* AudioManager.swift in Sources */,
 			);
