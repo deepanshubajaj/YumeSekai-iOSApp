@@ -287,8 +287,8 @@ To run this project locally:
 Here’s a short video showcasing the app's functionality:
 
 <p align="center">
-  <img src="ProjectOutputs/WorkingVideo/WorkingVideo1.gif" alt="Working App 1" width="30%" />
-  <img src="ProjectOutputs/WorkingVideo/WorkingVideo2.gif" alt="Working App 2" width="30%" />
+  <img src="ProjectOutputs/WorkingVideo/WorkingVideo2.gif" alt="Working App 1" width="30%" />
+  <img src="ProjectOutputs/WorkingVideo/WorkingVideo1.gif" alt="Working App 2" width="30%" />
 </p>
 
 ➤ <a href="ProjectOutputs/WorkingVideo/SplashScreen1.MP4">🎬 Watch Splash Screen Video</a>
