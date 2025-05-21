@@ -1,11 +1,18 @@
 <h1 align="center">🌙 YumeSekai - iOS App</h1>
 
+<p align="center"><img src="ProjectOutputs/OtherSnapshots/MyAnimeListLogo.jpg" width="20%"></p>
+
+> MyAnimeList (マイアニメリスト), or MAL, is an online platform that allows users to track, rate, and review anime and manga. It offers detailed information on titles, characters, staff, and more, serving as a comprehensive database and social hub for anime fans worldwide. The name reflects its main feature — maintaining a personal anime and manga list.
+> — Adapted from MyAnimeList.net - <a href="https://myanimelist.fandom.com/wiki/MyAnimeList_Wiki" target="_blank">MyAnimeList Fandom Wiki</a>
+
+##
+
+**YumeSekai** lets you discover anime anytime, anywhere. Whether you're a seasoned anime fan or new to the genre, YumeSekai helps you explore and keep track of the anime you love with rich information and an intuitive interface.
+
+
 <p align="center">
   <img src="ProjectOutputs/OtherSnapshots/allAnime.png" alt="App Animes" width="800" height="300" />
 </p>
-
-
-**YumeSekai** lets you discover anime anytime, anywhere. Whether you're a seasoned anime fan or new to the genre, YumeSekai helps you explore and keep track of the anime you love with rich information and an intuitive interface.
 
 ---
 
