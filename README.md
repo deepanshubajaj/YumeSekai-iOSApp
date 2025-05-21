@@ -4,6 +4,7 @@
   <img src="ProjectOutputs/OtherSnapshots/allAnime.png" alt="App Animes" width="800" height="300" />
 </p>
 
+
 **YumeSekai** lets you discover anime anytime, anywhere. Whether you're a seasoned anime fan or new to the genre, YumeSekai helps you explore and keep track of the anime you love with rich information and an intuitive interface.
 
 ---
