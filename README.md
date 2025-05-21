@@ -19,7 +19,7 @@
 
 **YumeSekai** lets you discover anime anytime, anywhere — whether you're a dedicated otaku or just starting your anime journey. Designed with both casual viewers and enthusiasts in mind, YumeSekai offers a seamless way to explore, track, and manage your favorite anime titles. From browsing top-rated series to reading detailed information like synopsis, rankings, adaptation sources, and seasonal status, the app ensures you stay informed and engaged. With a clean, modern SwiftUI interface and support for English and Bahasa Indonesia, YumeSekai delivers a personalized, accessible anime experience right from your iOS device.
 
-
+<br>
 <p align="center">
   <img src="ProjectOutputs/OtherSnapshots/allAnime.png" alt="App Animes" width="800" height="300" />
 </p>
