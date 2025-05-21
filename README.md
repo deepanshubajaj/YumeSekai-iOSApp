@@ -111,9 +111,12 @@ To run this project locally:
 
 ---
 
-## ⚙️ Data Reference
+## ⚙️ API Reference & Usage
+
+<img src="ProjectOutputs/OtherSnapshots/MyAnimeListLogo.jpg" align="right" width="21%"/>
 
 - 🌐 **API Source** — Data is fetched from the [MyAnimeList API](https://myanimelist.net/apiconfig), providing reliable and up-to-date anime information including titles, scores, rankings, and more.
+
 - 🔄 **Project Usage**: Add your own Client ID (API token) from [MyAnimeList](https://myanimelist.net/apiconfig) Value by adding the file env.swift in the project in the following format.
 
     ```bash
