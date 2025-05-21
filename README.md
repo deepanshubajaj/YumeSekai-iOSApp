@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/swift-5.0-orange" alt="Swift Badge" />
   <img src="https://img.shields.io/badge/platform-iOS-blue" alt="Platform Badge" />
   <img src="https://img.shields.io/badge/license-Apache--2.0-green" alt="License Badge" />
+  <img src="https://img.shields.io/badge/MyAnimeList-API-blue?logo=MyAnimeList&style=flat" alt="MyAnimeList Badge"/>
   <img src="https://img.shields.io/github/stars/deepanshubajaj/YumeSekai-iOSApp?style=social" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/forks/deepanshubajaj/YumeSekai-iOSApp" alt="Forks Badge" />
   <img src="https://img.shields.io/github/issues/deepanshubajaj/YumeSekai-iOSApp" alt="Open Issues" />
@@ -127,7 +128,7 @@ To run this project locally:
 
 - 🌐 **API Source** — Data is fetched from the [MyAnimeList API](https://myanimelist.net/apiconfig), providing reliable and up-to-date anime information including titles, scores, rankings, and more.
 
-- 🔄 **Project Usage**: Add your own Client ID (API token) from [MyAnimeList](https://myanimelist.net/apiconfig) Value by adding the file env.swift in the project in the following format.
+- 🔄 **Project Usage**: Add your own Client ID (API token) from [MyAnimeList](https://myanimelist.net/apiconfig/references/api/v2) Value by adding the file env.swift in the project in the following format.
 
 
 
