@@ -129,7 +129,8 @@ To run this project locally:
 
 - 🔄 **Project Usage**: Add your own Client ID (API token) from [MyAnimeList](https://myanimelist.net/apiconfig) Value by adding the file env.swift in the project in the following format.
 
-<br>
+
+
 
     ```bash
     // env.swift
