@@ -4,9 +4,12 @@
   <img src="https://img.shields.io/badge/swift-5.0-orange" alt="Swift Badge" />
   <img src="https://img.shields.io/badge/platform-iOS-blue" alt="Platform Badge" />
   <img src="https://img.shields.io/badge/license-Apache--2.0-green" alt="License Badge" />
-  <img src="https://img.shields.io/github/v/release/deepanshubajaj/YumeSekai-iOSApp" alt="Release Version" />
   <img src="https://img.shields.io/github/last-commit/deepanshubajaj/YumeSekai-iOSApp" alt="Last Commit" />
   <img src="https://img.shields.io/github/stars/deepanshubajaj/YumeSekai-iOSApp?style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/forks/deepanshubajaj/YumeSekai-iOSApp" alt="Forks Badge" />
+  <img src="https://img.shields.io/github/issues/deepanshubajaj/YumeSekai-iOSApp" alt="Open Issues" />
+  <img src="https://img.shields.io/github/contributors/deepanshubajaj/YumeSekai-iOSApp" alt="Contributors Badge" />
+  <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status" />
 </p>
 
 <p align="center"><img src="ProjectOutputs/OtherSnapshots/MyAnimeListLogo.jpg" width="20%"></p>
