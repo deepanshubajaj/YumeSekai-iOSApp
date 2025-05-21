@@ -143,7 +143,7 @@ To run this project locally:
 
 <p align="center">
   <img src="ProjectOutputs/Snapshots/SScreen3.jpg" alt="Splash Screen 3" width="30%" />
-  <img src="ProjectOutputs/WorkingVideo/SplashScreen.gif" alt="Splash Screen" width="30%" />
+  <img src="ProjectOutputs/WorkingVideo/SplashScreen1.gif" alt="Splash Screen" width="30%" />
   <img src="ProjectOutputs/Snapshots/SScreen4.jpg" alt="Splash Screen 4" width="30%" />
 </p>
 
