@@ -1,5 +1,9 @@
 <h1 align="center">🌙 YumeSekai - iOS App</h1>
 
+<p align="center">
+  <img src="ProjectOutputs/OtherSnapshots/allAnime.png" alt="App Animes" />
+</p>
+
 **YumeSekai** lets you discover anime anytime, anywhere. Whether you're a seasoned anime fan or new to the genre, YumeSekai helps you explore and keep track of the anime you love with rich information and an intuitive interface.
 
 ---
