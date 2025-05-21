@@ -1,5 +1,11 @@
 <h1 align="center">🌙 YumeSekai - iOS App</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/swift-5.0-orange" alt="Swift Badge" />
+  <img src="https://img.shields.io/badge/platform-iOS-blue" alt="Platform Badge" />
+  <img src="https://img.shields.io/badge/license-Apache--2.0-green" alt="License Badge" />
+</p>
+
 <p align="center"><img src="ProjectOutputs/OtherSnapshots/MyAnimeListLogo.jpg" width="20%"></p>
 
 > MyAnimeList (マイアニメリスト), or MAL, is an online platform that allows users to track, rate, and review anime and manga. It offers detailed information on titles, characters, staff, and more, serving as a comprehensive database and social hub for anime fans worldwide. The name reflects its main feature — maintaining a personal anime and manga list.
