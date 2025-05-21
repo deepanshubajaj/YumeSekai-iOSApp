@@ -29,6 +29,15 @@ YumeSekai-iOSApp
 
 ---
 
+<p align="center">
+  <img src="ProjectOutputs/OtherSnapshots/feature-graphic.jpg" alt="App feature graphic" />
+</p>
+<p align="center">
+  *App Features.*
+</p>
+
+---
+
 ## 🧭 App Sections
 
 ### 🏠 Home
@@ -96,6 +105,7 @@ To run this project locally:
 
 - 🌐 **API Source** — Data is fetched from the [MyAnimeList API](https://myanimelist.net/apiconfig), providing reliable and up-to-date anime information including titles, scores, rankings, and more.
 - 🔄 **Project Usage**: Add your own Client ID (API token) from [MyAnimeList](https://myanimelist.net/apiconfig) Value by adding the file env.swift in the project in the following format.
+
     ```bash
     // env.swift
 
@@ -129,13 +139,14 @@ To run this project locally:
 ## 🖼️ Screenshots:
 
 <p align="center">
-  <img src="ProjectOutputs/Snapshots/SScreen1a.jpg" alt="Splash Screen 1" width="30%" />
+  <img src="ProjectOutputs/Snapshots/SScreen1.jpg" alt="Splash Screen 1" width="30%" />
+  <img src="ProjectOutputs/Snapshots/SScreen2.jpg" alt="Splash Screen 2" width="30%" />
 </p>
 
 <p align="center">
-  <img src="ProjectOutputs/Snapshots/SScreen-2.jpg" alt="Splash Screen 2" width="30%" />
-  <img src="ProjectOutputs/WorkingVideo/splashScreenVideo.gif" alt="Splash Screen" width="30%" />
-  <img src="ProjectOutputs/Snapshots/SScreen-3.jpg" alt="Splash Screen 2" width="30%" />
+  <img src="ProjectOutputs/Snapshots/SScreen3.jpg" alt="Splash Screen 3" width="30%" />
+  <img src="ProjectOutputs/WorkingVideo/SplashScreen.gif" alt="Splash Screen" width="30%" />
+  <img src="ProjectOutputs/Snapshots/SScreen4.jpg" alt="Splash Screen 4" width="30%" />
 </p>
 
 <p align="center">
@@ -148,92 +159,116 @@ To run this project locally:
 
 <p align="center">
     <img src="ProjectOutputs/Snapshots/mainScreen1.jpg" alt="Main Screen 1" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen1a.jpg" alt="Main Screen 1a" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen1b.jpg" alt="Main Screen 1b" width="30%" />
-</p>
-
-##
-
-<p align="center">
     <img src="ProjectOutputs/Snapshots/mainScreen2.jpg" alt="Main Screen 2" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen3.jpg" alt="Main Screen 3" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen4.jpg" alt="Main Screen 4" width="30%" />
 </p>
 
 ##
 
 <p align="center">
+    <img src="ProjectOutputs/Snapshots/mainScreen4.jpg" alt="Main Screen 4" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen5.jpg" alt="Main Screen 5" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen6.jpg" alt="Main Screen 6" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen7.jpg" alt="Main Screen 7" width="30%" />
 </p>
 
 ##
 
 <p align="center">
+    <img src="ProjectOutputs/Snapshots/mainScreen7.jpg" alt="Main Screen 7" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen8.jpg" alt="Main Screen 8" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen9.jpg" alt="Main Screen 9" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen10.jpg" alt="Main Screen 10" width="30%" />
 </p>
 
 ##
 
 <p align="center">
+    <img src="ProjectOutputs/Snapshots/mainScreen10.jpg" alt="Main Screen 10" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen11.jpg" alt="Main Screen 11" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen12.jpg" alt="Main Screen 12" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen13.jpg" alt="Main Screen 13" width="30%" />
 </p>
 
 ##
 
 <p align="center">
+    <img src="ProjectOutputs/Snapshots/mainScreen13.jpg" alt="Main Screen 13" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen14.jpg" alt="Main Screen 14" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen15.jpg" alt="Main Screen 15" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen16.jpg" alt="Main Screen 16" width="30%" />
 </p>
 
 ##
 
 <p align="center">
+    <img src="ProjectOutputs/Snapshots/mainScreen16.jpg" alt="Main Screen 16" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen17.jpg" alt="Main Screen 17" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen18.jpg" alt="Main Screen 18" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen19.jpg" alt="Main Screen 19" width="30%" />
 </p>
 
 ##
 
 <p align="center">
+    <img src="ProjectOutputs/Snapshots/mainScreen19.jpg" alt="Main Screen 19" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen20.jpg" alt="Main Screen 20" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen21.jpg" alt="Main Screen 21" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen22.jpg" alt="Main Screen 22" width="30%" />
 </p>
 
 ##
 
 <p align="center">
+    <img src="ProjectOutputs/Snapshots/mainScreen22.jpg" alt="Main Screen 22" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen23.jpg" alt="Main Screen 23" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen24.jpg" alt="Main Screen 24" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen25.jpg" alt="Main Screen 25" width="30%" />
 </p>
 
 ##
 
 <p align="center">
+    <img src="ProjectOutputs/Snapshots/mainScreen24b.jpg" alt="Main Screen 24b" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreen25.jpg" alt="Main Screen 25" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen26.jpg" alt="Main Screen 26" width="30%" />
+</p>
+
+##
+
+<p align="center">
     <img src="ProjectOutputs/Snapshots/mainScreen27.jpg" alt="Main Screen 27" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen28.jpg" alt="Main Screen 28" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreen29.jpg" alt="Main Screen 29" width="30%" />
 </p>
 
 ##
 
 <p align="center">
-    <img src="ProjectOutputs/Snapshots/mainScreen28.jpg" alt="Main Screen 28a" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen29.jpg" alt="Main Screen 29" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen30.jpg" alt="Main Screen 30" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreen31.jpg" alt="Main Screen 31" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreen32.jpg" alt="Main Screen 32" width="30%" />
+</p>
+
+##
+
+<p align="center">
+    <img src="ProjectOutputs/Snapshots/mainScreen33.jpg" alt="Main Screen 33" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreen34.jpg" alt="Main Screen 34" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreen35.jpg" alt="Main Screen 35" width="30%" />
+</p>
+
+##
+
+<p align="center">
+    <img src="ProjectOutputs/Snapshots/mainScreen36.jpg" alt="Main Screen 36" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreen37.jpg" alt="Main Screen 37" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreen38.jpg" alt="Main Screen 38" width="30%" />
+</p>
+
+##
+
+<p align="center">
+    <img src="ProjectOutputs/Snapshots/mainScreen39.jpg" alt="Main Screen 39" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreen40.jpg" alt="Main Screen 40" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreen37.jpg" alt="Main Screen 37" width="30%" />
 </p>
 
 <p align="center">
-  *Screenshots of the OnePiece App showing different screens*
+  *Screenshots of the YumeSekai App showing different screens*
 </p>
 
 ---
@@ -244,7 +279,7 @@ To run this project locally:
   <img src="ProjectOutputs/Snapshots/appIcon.png" alt="App Icon" width="30%" />
 </p>
 <p align="center">
-  *The app icon reflects the OnePiece look*
+  *The app icon reflects the YumeSekai look*
 </p>
 
 ---
@@ -254,12 +289,15 @@ To run this project locally:
 Here’s a short video showcasing the app's functionality:
 
 <p align="center">
-  <img src="ProjectOutputs/WorkingVideo/WorkingVideo.gif" alt="Working App" width="35%" />
+  <img src="ProjectOutputs/WorkingVideo/WorkingVideo1.gif" alt="Working App 1" width="30%" />
+  <img src="ProjectOutputs/WorkingVideo/WorkingVideo2.gif" alt="Working App 2" width="30%" />
 </p>
 
-➤ <a href="ProjectOutputs/WorkingVideo/splashScreenVideo.MOV">🎬 Watch Splash Screen Video</a>
+➤ <a href="ProjectOutputs/WorkingVideo/SplashScreen1.MP4">🎬 Watch Splash Screen Video</a>
 
-➤ <a href="ProjectOutputs/WorkingVideo/workingVideo.MP4">🎥 Watch Working Video</a>
+➤ <a href="ProjectOutputs/WorkingVideo/WorkingVideo1.MP4">🎥 Watch Working Video 1</a>
+
+➤ <a href="ProjectOutputs/WorkingVideo/WorkingVideo2.MP4">🎥 Watch Working Video 2</a>
 
 ---
 
