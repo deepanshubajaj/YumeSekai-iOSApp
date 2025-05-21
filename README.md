@@ -338,7 +338,7 @@ I welcome contributions from the community.
 
 ---
 
-### 📌 How to Contribute
+## 📌 How to Contribute
 
 To contribute:
 
