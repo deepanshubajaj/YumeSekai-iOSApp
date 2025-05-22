@@ -115,10 +115,15 @@ To run this project locally:
 
 ## 🛠 Technologies Used:
 
-- 🛠️ **SwiftUI** — Used for designing the user interface.  
-- 🧪 **Xcode** — Used for development, testing, and debugging.  
-- 🔄 **Remote APIs** — For data management and online functionality.  
-- 💻 **Swift** — The core programming language powering the app.
+| Component        | Description                                       |
+|------------------|---------------------------------------------------|
+| 🧱 **VIPER**       | Scalable architecture for iOS features           |
+| 💻 **Swift**       | Primary language for development                 |
+| 🛠️ **SwiftUI**     | Declarative UI design                            |
+| 🔄 **Combine**     | Reactive programming for ViewModel bindings      |
+| 📦 **SPM**         | Modularization via Swift Package Manager         |
+| 🌍 **Localization**| Multi-language support                           |
+| 📡 **MyAnimeList API** | REST API with OAuth2 for anime data access  |
 
 ---
 
